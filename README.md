@@ -3,7 +3,7 @@
 A UFRJ Computer Science student brief diary on programming:
 
 - 🔭 I’m currently working on python data science and webscrapping projects
-- 🌱 I’m currently learning pandas, numpy, selenium, playwright...
+- 🌱 I’m currently studying typescript, express, postgresql and prisma...
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: francisco.florencio.tjii@gmail.com
 - 😄 Pronouns: he/him
@@ -20,7 +20,7 @@ A UFRJ Computer Science student brief diary on programming:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript.svg">      
 </div>
 
   ##
