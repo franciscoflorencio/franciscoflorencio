@@ -12,6 +12,13 @@ A UFRJ Computer Science student brief diary on programming:
 
   ##
 # My programming skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,neovim,typescript,express,prisma,python,java,c" />
+  </a>
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
