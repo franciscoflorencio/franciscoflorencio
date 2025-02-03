@@ -1,26 +1,32 @@
-### Hello there! 👋
+# Hi there, I'm Francisco Florencio 👋
 
-A UFRJ Computer Science student brief diary on programming:
+Welcome to my GitHub profile! I'm Francisco Florencio, a passionate developer with expertise in various programming languages and technologies. I love creating innovative solutions and contributing to open-source projects.
 
-- 🔭 I’m currently working on python data science and webscrapping projects
-- 🌱 I’m currently studying typescript, express, postgresql and prisma...
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on web development!
+- 🌱 I’m currently studying typescript, express, postgresql and react...
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: francisco.florencio.tjii@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming since elementary school
--->
 
-  ##
-# My programming skills:
+## 🚀 Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,typescript,express,prisma,python,java,c" />
+    <img src="https://skillicons.dev/icons?i=linux,javascript,typescript,express,react,python,java,c" />
   </a>
 </p>
 
-  ##
-# Contacts
- <a href = "mailto:francisco.florencio.tjii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/francisco-florencio-a691a3266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+## 📈 GitHub Stats
+
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoflorencio&show_icons=true&theme=radical)
+
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/francisco-florencio-a691a3266/)
+
+Thank you for visiting my GitHub profile!
